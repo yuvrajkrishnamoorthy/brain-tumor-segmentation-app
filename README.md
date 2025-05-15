@@ -1,6 +1,4 @@
-Here’s a ready-to-copy version of your README.md file, formatted cleanly and ready for GitHub:
 
-⸻
 
 
 
